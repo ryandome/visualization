@@ -1,0 +1,48 @@
+header
+{
+    background-image: url("images/map.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 150px;
+    color: floralwhite;
+}
+
+p.one
+{
+    background-image: url("images/mapone.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 24px;
+    font-weight: bold;
+    color:floralwhite;
+    padding 10px 10px;
+    text-shadow: 2px 2px 7px #111111;
+}
+
+p.two
+{
+   background-image: url("images/maptwo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+    font-size: 24px;
+    font-weight: bold;
+    color:floralwhite;
+    padding 10px 10px;
+    text-shadow: 2px 2px 7px #111111;
+}
+
+body
+{
+    background-color: darkgray;
+}
+
+
+a:link
+{
+    color:deepskyblue;
+}
+
+
+
+
+
